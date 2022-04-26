@@ -1,0 +1,17 @@
+#contenu{
+	width: auto;
+}
+
+#liseret{
+	display: none;
+}
+
+section{
+	display: block;
+	width: auto;
+	margin: 1.5em;
+}
+
+p{
+	margin-bottom: 2em;
+}

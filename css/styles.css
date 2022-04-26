@@ -1,0 +1,64 @@
+
+body{
+	background-image: url(../img/arriere-plan.jpg);
+}
+
+h1{
+	text-align: center;
+	color: lightgreen;
+	font-size: 2.5em;
+}
+
+#sous_titre{
+	text-align: center;
+	color: lightgreen;
+	font-size: 1.5em;
+}
+
+h2{
+	font-size: 1.8em;
+	color: lightgreen;
+}
+
+img{
+	float: right;
+	border: 2px solid lightgrey;
+	border-radius: 5em;
+	box-shadow: 5px 5px 5px lightgreen;
+	height: 8.1em;
+}
+
+ul li{
+	list-style-type: none;
+}
+
+section{
+	display: inline-block;
+	vertical-align: top;
+	color: lightgrey;
+	text-align: center;
+	width: 30%;
+	margin-right: 1%;
+	border: 3px solid lightgrey;
+	border-radius: 0.5em;
+	padding: 3px;
+}
+
+#liseret, #contenu{
+	display: inline-block;
+	vertical-align: top;
+}
+
+#liseret{
+	width: 15%;
+	margin-right: 3%;
+	height: 30em;
+	background-image: url(../img/fond-ecran.jpg);
+	border-radius: 10em;
+	border: 0.2em solid lightgrey;
+	box-shadow: 0.5em 0.5em 0.5em lightgreen;
+}
+
+#contenu{
+	width: 80%
+}
